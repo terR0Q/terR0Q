@@ -1,5 +1,8 @@
 - Hi, I’m @terR0Q, started programming in 2002 in senior school.
-- I'm little bit poliglotical in coding languages and frameworks: Java (Swing and Kotlin included) C#, PHP (Yii, Laravel), Python/Django, Perl (mod_perl with CPAN), JS (React, VUE, TS), C++ (never forget that financial server update), Swift, Ruby, Visual Basic (started on my own from this one). With database experience in MySQL, Postgresql, Mongodb and Oracle.
+- I'm graduated practical information analyst. Which makes me something like Paladin: swings a sword (code), casts spells (creates detailed tasks for collegues) and swears a lot (team leading).
+- I'm little bit poliglotical in coding languages and frameworks: Java (Swing and Kotlin included) C#, PHP (Yii, Laravel), Python/Django, Perl (mod_perl with CPAN), JS (React, VUE, TS), C++ (never forget that financial server update), Swift, Ruby, Visual Basic (started on my own from this one).
+  - With database experience in MySQL, Postgresql, Mongodb and Oracle.
+  - Linked tech I'm working with: Debian/Ubuntu, Macos, iOS, Android, Windows, redis, memcache, master/slave architectures, Composer, NodeJS, docx/xlsx auto generation, GoF patterns.
 - Most current practice in PHP/Laravel, Java/Kotlin, Swift and JS/React.
 - Most of my activity in past 15 years goes for web services of all sorts. In the past 3 years I moved more to mobile and edutainment.
 - You can reach me via telegram @terr0q
